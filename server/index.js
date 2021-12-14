@@ -1,3 +1,6 @@
+//basic node file to connect with postgres
+
+
 const express = require("express")
 const app = express();
 const cors = require("cors")
