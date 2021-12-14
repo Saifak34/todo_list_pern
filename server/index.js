@@ -1,4 +1,4 @@
-//basic node file to connect with postgres and take this as a test case for other projects.
+//basic node file to connect with postgres and take this as a test case for other projects. and other postgres 
 
 
 const express = require("express")
